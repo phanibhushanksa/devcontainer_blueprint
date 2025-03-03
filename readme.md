@@ -1,6 +1,9 @@
 ## Devcontainer broilerplate
 * This repository has broilerplate code to setup an isolated development enviroment using Devcontainer. 
 
+## Pre-requisite:
+* You should have Docker or Podman installed on your system. 
+
 ### Advantages of devcontainer
 * Devcontainer helps the whole team to work in a consistent coding environment. 
 * Using Devcontainer provides several advantages like, 
